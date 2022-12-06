@@ -8,4 +8,4 @@
 
 :open_hands:
 
-:fu:
+:fu
